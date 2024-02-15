@@ -18,15 +18,15 @@
 					"extensions": 
 						[		
 							"ms-dotnettools.csharp",
-					    "ms-dotnettools.csdevkit",
-              "dotnettools.vscodeintellicode-csharp",
-              "ms-vscode.js-debug-companion",
-              "adrianwilczynski.user-secrets",
-					    "github.copilot",
-              "github.copilot-chat",
-              "mhutchie.git-graph",					                  
+							"ms-dotnettools.csdevkit",
+							"dotnettools.vscodeintellicode-csharp",
+							"ms-vscode.js-debug-companion",
+							"adrianwilczynski.user-secrets",
+							"github.copilot",
+							"github.copilot-chat",
+							"mhutchie.git-graph",
 							"ms-dotnettools.dotnet-interactive-vscode",
-              "ms-vscode.azurecli"							
+							"ms-vscode.azurecli"							
 						]
 				}
 		},
