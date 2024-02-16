@@ -20,6 +20,7 @@
 							"ms-dotnettools.csharp",
 							"ms-dotnettools.csdevkit",
 							"dotnettools.vscodeintellicode-csharp",
+							"ms-dotnettools.vscode-dotnet-runtime",
 							"ms-vscode.js-debug-companion",
 							"adrianwilczynski.user-secrets",
 							"github.copilot",
