@@ -1,7 +1,7 @@
 {	
 	"name": "MSFTJim .Net 8 Codespace Defaults", 
-		
-	"image": "mcr.microsoft.com/dotnet/sdk:8.0.200-jammy",		
+	
+	"image": "mcr.microsoft.com/devcontainers/dotnet:8.0-jammy",	
 	
 	// "forwardPorts": [5100, 5200], 
 
