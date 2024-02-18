@@ -27,6 +27,7 @@
 							"github.copilot-chat",
 							"mhutchie.git-graph",
 							"ms-dotnettools.dotnet-interactive-vscode",
+							"wraith13.zoombar-vscode",
 							"ms-vscode.azurecli"							
 						]
 				}
